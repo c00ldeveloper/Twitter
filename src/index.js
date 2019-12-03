@@ -44,6 +44,7 @@ const Message = () => <div className="message">Something great.</div>;
 const ReplyButton = () => <i className="fa fa-reply reply-button" />;
 
 const RetweetButton = () => <i className="fa fa-retweet retweet-button" />;
+
 const LikeButton = () => <i className="fa fa-heart like-button" />;
 
 const MoreOptionsButton = () => (
